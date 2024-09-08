@@ -6,6 +6,9 @@ This project performs sentiment analysis on product reviews using a Bidirectiona
 - **Dataset**: Amazon Reviews Dataset
 - **Model**: Bidirectional LSTM
 - **Accuracy**: 93%
+- the dataset was very large so it wont be available on the repository
+- visit the below link to download the dataset
+- https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews
 
 ## Files
 - `data_preprocessing.py`: Contains code for cleaning and preparing data.
