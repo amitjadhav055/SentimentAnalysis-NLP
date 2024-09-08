@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+# Exclude large data files
+data/*.csv
+data/*.gitattributes
